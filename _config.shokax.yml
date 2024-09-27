@@ -1,5 +1,5 @@
 alternate: HarmonyOS生活
 
 sidebar:
-position: left
-avatar: avatar.jpg
+  position: left
+  avatar: avatar.jpg
